@@ -1,0 +1,18 @@
+# Builds are attached to GitHub Releases, never committed
+*.dmg
+*.zip
+*.blockmap
+
+# Local notes and drafts
+/tmp/
+
+# Agent settings and state stay local
+.opencode/
+.claude/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
