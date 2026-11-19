@@ -1,4 +1,4 @@
-# misha-downloads
+# desktop-downloads
 
 <img src="https://docs.dumdummisha.ai/app-icon-512.png" alt="The Misha app icon" width="96" height="96">
 
@@ -14,4 +14,4 @@ Dumdum Misha is a Mac app that answers routine Slack questions through your own 
 - [Control and maintain Misha](https://docs.dumdummisha.ai/operate/manage): pausing, and what is known today about updating and removing it.
 - [Ask for an invite](https://dumdummisha.ai) on the Dumdum Misha website.
 
-The browser extension's source is public in [dumdummisha/misha-browser](https://github.com/dumdummisha/misha-browser), and the docs' source in [dumdummisha/misha](https://github.com/dumdummisha/misha).
+The browser extension's source is public in [dumdummisha/browser-extension](https://github.com/dumdummisha/browser-extension), and the docs' source in [dumdummisha/docs](https://github.com/dumdummisha/docs).
