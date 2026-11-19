@@ -8,7 +8,7 @@ No signed public build of Misha is available yet. Since 19 November 2026 there h
 
 Dumdum Misha is a Mac app that answers routine Slack questions through your own Slack account, as a clearly marked clone, and runs permitted work through your own Claude Code. To find out more or ask for access:
 
-- [Decide whether to try it](https://docs.dumdummisha.ai/start/decide): what Misha does, what it needs and costs, and what can go wrong.
+- [Why try it](https://docs.dumdummisha.ai/start/why): what Misha offers, what it needs and costs, and how to ask for access.
 - [Get started](https://docs.dumdummisha.ai/start/get-started#availability): what is available today and what setup involves.
 - [Privacy and security](https://docs.dumdummisha.ai/privacy): where your data goes and what Misha may do on your Mac.
 - [Control and maintain Misha](https://docs.dumdummisha.ai/operate/manage): pausing, and what is known today about updating and removing it.
