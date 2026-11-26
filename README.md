@@ -4,7 +4,7 @@
 
 **Misha desktop builds and updates.**
 
-Misha is a personal AI agent for routine Slack work that runs on your Mac. The [documentation](https://docs.dumdummisha.ai) says what it does and how to set it up.
+Misha is a personal AI agent that runs on your Mac. The [documentation](https://docs.dumdummisha.ai) says what it does and how to set it up.
 
 ## Download
 
