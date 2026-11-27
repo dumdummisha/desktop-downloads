@@ -49,4 +49,4 @@ Choose **Uninstall Misha…** in the menu bar's Misha menu. [Remove Misha](https
 
 ## Privacy and support
 
-[Privacy and security](https://docs.dumdummisha.ai/privacy) says what data goes where. [Troubleshooting](https://docs.dumdummisha.ai/operate/troubleshooting) covers what to do when something goes wrong.
+[Privacy and security](https://docs.dumdummisha.ai/privacy) says what data goes where, and the [terms of use](https://docs.dumdummisha.ai/terms) govern using Misha. [Troubleshooting](https://docs.dumdummisha.ai/operate/troubleshooting) covers what to do when something goes wrong.
