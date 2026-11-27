@@ -24,11 +24,7 @@ shasum -a 256 Misha-<version>-darwin-arm64.zip
 
 ## Access is invite-only
 
-Downloading Misha doesn't give you access. Ask for an invite on [dumdummisha.ai](https://dumdummisha.ai). Misha checks the key on your Mac, with no network call, and checks it again each time it starts. Until a key is verified, nothing of Misha runs, and you see one of these:
-
-- "Enter your invite key to use Misha." in the window, before you've pasted a key.
-- "This invite key isn't valid. Paste the key from your invitation, or ask the person who invited you for a new one." in the window, for a key that doesn't verify.
-- "Misha needs an invite. Open Misha and paste your invite key." in a Claude Code or OpenCode session that calls Misha's tools.
+Downloading Misha doesn't give you access. Ask for an invite on [dumdummisha.ai](https://dumdummisha.ai). Misha checks the key on your Mac, with no network call, and nothing of Misha runs until a key is verified. [Activate your invite](https://docs.dumdummisha.ai/start/get-started#invite) covers a key that doesn't verify.
 
 ## Install
 
@@ -41,7 +37,7 @@ Downloading Misha doesn't give you access. Ask for an invite on [dumdummisha.ai]
 
 Misha updates itself from this repository's releases. It checks for a newer release when it starts and each time the Mac wakes, and downloads it in the background. When it's ready, the menu bar's Misha menu shows **Restart to update Misha**. Click it to restart once on the new version, or carry on: **Quit Misha** quits without reopening, and the update is installed the next time you open Misha.
 
-After an update, a Claude Code or OpenCode session that was already open says "Misha was updated. Restart this Claude Code or OpenCode session." Restart it. Each update replaces the whole app, and there is no rollback: an older Misha refuses data a newer one has saved, with "Your Misha data was saved by a newer Misha. Install the latest Misha, then open it again." [Updates](https://docs.dumdummisha.ai/operate/manage#updates) has the details.
+After an update, restart any Claude Code or OpenCode session that was already open. Each update replaces the whole app, and there is no rollback. [Updates](https://docs.dumdummisha.ai/operate/manage#updates) has the details.
 
 ## Remove
 
